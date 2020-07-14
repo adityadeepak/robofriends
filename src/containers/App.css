@@ -1,0 +1,12 @@
+@font-face {
+font-family: 'Quickat Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Quickat Regular'), url('Quickat-vLKD.woff') format('woff');
+}
+
+h1 {
+	font-family: 'Quickat Regular';
+	font-weight: 200;
+	color: #0ccac4;
+}
